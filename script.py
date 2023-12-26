@@ -3,13 +3,13 @@ Hello {mention}
 
 I'm an advanced filter bot with many capabilities!
 
-There is no practical limits for my filtering capacity :)
+There is no practical limits for my filtering capacity :
 
 See help button for commands and more details
 """
 
 HelpTxT = """
-Add me as admin in your group and start filtering :)
+Add me as admin in your group and start filtering :
 
 <b>Basic Commands;</b>
 
@@ -34,7 +34,7 @@ Add me as admin in your group and start filtering :)
 /id  -  Shows ID information
 /info userid  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
-© @learningbots79
+© @areymawa2
 """
 
 AboutTxT = """
