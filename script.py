@@ -36,4 +36,8 @@ Add me as admin in your group and start filtering :
 
 © @areymawa2
 """
-
+"ABOUT TXT"
+Official Channel: @areymawa2
+Devlopers:arey_mawa2
+Language:Python3
+Library:pyrogram 2.0.106
